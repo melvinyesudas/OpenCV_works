@@ -1,6 +1,4 @@
-# Haar_Cascade
-
-Detetction of unique object using Haar cascade, TM and Sobel edge detection and TM.
+# Detetction of unique object using Haar cascade, TM and Sobel edge detection and TM.
 
 # Dependencies
 
