@@ -21,3 +21,11 @@ cc_binary(
         "@opencv//:opencv"
     ],
 )
+
+cc_binary(
+    name = "color_detect",
+    srcs = ["ycrcb.cpp"],
+    deps = [
+        "@opencv//:opencv"
+    ],
+)
